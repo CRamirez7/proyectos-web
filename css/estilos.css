@@ -45,7 +45,7 @@ border-top-left-radius:5px;
 border-top-right-radius:5px;
 border-bottom-left-radius:5px;
 border-bottom-right-radius:5px;
-	
+
 }
 
 header>h1{
@@ -57,13 +57,19 @@ header>img{
 }
 
 ul>li{
-	
+
 	list-style: none;
 }
 
 ul>li>a{
 	text-decoration: none;
 	display: inline-block;
+}
+
+.donra{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
 }
 
 #cssmenu,
@@ -540,7 +546,7 @@ header>img{
 
 #contenedor{
   width: 80%;
-  
+
 
 }
 img{

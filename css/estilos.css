@@ -32,7 +32,7 @@ header{
 	margin: 20px auto;
 	text-align: center;
 	margin-bottom: 50px;
-	border:dashed 5px #000000;
+
 -moz-border-radius-topleft: 5px;
 -moz-border-radius-topright:5px;
 -moz-border-radius-bottomleft:5px;
@@ -41,10 +41,6 @@ header{
 -webkit-border-top-right-radius:5px;
 -webkit-border-bottom-left-radius:5px;
 -webkit-border-bottom-right-radius:5px;
-border-top-left-radius:5px;
-border-top-right-radius:5px;
-border-bottom-left-radius:5px;
-border-bottom-right-radius:5px;
 
 }
 
@@ -66,10 +62,17 @@ ul>li>a{
 	display: inline-block;
 }
 
-.donra{
+.don{
 	width: 80%;
 	text-align: center;
 	margin: 0 auto;
+
+}
+.cr{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+
 }
 
 #cssmenu,
@@ -292,7 +295,7 @@ ul>li>a{
 }
 
 section{
-	border:dashed 5px #000000;
+
 -moz-border-radius-topleft: 5px;
 -moz-border-radius-topright:5px;
 -moz-border-radius-bottomleft:5px;
@@ -301,14 +304,15 @@ section{
 -webkit-border-top-right-radius:5px;
 -webkit-border-bottom-left-radius:5px;
 -webkit-border-bottom-right-radius:5px;
-border-top-left-radius:5px;
-border-top-right-radius:5px;
-border-bottom-left-radius:5px;
-border-bottom-right-radius:5px;
+
 	text-align: center;
 	width: 95%;
 	margin: 20px;
 	background: rgba(255,255,255,.5);
+}
+
+p{
+	font-size: 0.75em;
 }
 
 .info{

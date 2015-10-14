@@ -11,7 +11,7 @@
 }
 
 body{
-	background-color: 	#008B8B;
+	background-color: 	#fff;
 	font-size: 1.5em;
 	font-family: helvetica;
 
@@ -45,7 +45,7 @@ border-top-left-radius:5px;
 border-top-right-radius:5px;
 border-bottom-left-radius:5px;
 border-bottom-right-radius:5px;
-	
+
 }
 
 header>h1{
@@ -57,7 +57,7 @@ header>img{
 }
 
 ul>li{
-	
+
 	list-style: none;
 }
 
@@ -540,7 +540,7 @@ header>img{
 
 #contenedor{
   width: 80%;
-  
+
 
 }
 img{

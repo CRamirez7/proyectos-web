@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="sitemap" type="text/xml" href="sitemap.xml">
+<link rel="icon" href="">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="tittle" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="autor" content="Carlos Ramirez">
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="js/script.js"></script>
+
+<head>
+	<title>Proyecto Final</title>
+</head>
+<body>
+   <div class="social">
+      <ul>
+         <li><a href="" target ="_blank"class="icon-facebook"></a></li>
+         <li><a href="" target ="_blank" class="icon-twitter"></a></li>
+         <li><a href="" target ="_blank" class="icon-instagram"></a></li>
+      </ul>
+   </div>
+   <div id="contenedor">
+		<header>
+			<img src="">LOGO
+			<h1>Encabezado</h1>
+			<div id='cssmenu'>
+      <ul>
+         <li class='active'><a href='#'>Inicio</a></li>
+         <li><a href='#'>Galeria</a></li>
+         <li><a href='#'>Acerca</a></li>
+         <li><a href='#'>Contactenos</a></li>
+      </ul>
+   </div>
+		</header>
+		<div id="flex">Aqui Flex</div>
+		<article id="vid">
+				<p>Video Aqui</p>
+				<video width="" height="" controls> 
+				<source type="video/mp4" src="">
+				</video>
+			</article>
+		<section >
+   			<h2>Seccion</h2>
+   			<article class="info">
+   			<h3>Articulo #1</h3>	
+   			<p>
+   				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   			</p>
+   			</article>
+   			<article class="info">
+   			<h3> Articulo #2</h3>
+   			<p>
+   				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   			</article>
+   			<article class="info">
+   			<h3>Articulo #3</h3>
+   			<p>
+   				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.	
+   			</article>
+   			<article class="info">
+   			<h3>Articulo #4</h3>
+   			<p>
+   				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.	
+   			</article>		
+	</div>
+	<footer>&copy;Pie de Pagina&copy;
+		<nav>
+				<ul>
+					<li><a href="#index">Inicio</a></li>
+					<li><a href="#acerca">Acerca</a></li>
+					<li><a href="#galeria">Galeria</a></li>
+					<li><a href="#contactenos">Contactenos</a></li>	
+				</ul>
+			</nav>
+
+	</footer>
+</body>
+</html>
